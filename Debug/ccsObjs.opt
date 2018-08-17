@@ -1,0 +1,1 @@
+"./ST7735.obj" "./game.obj" "./main.obj" "./startup_msp432p401r_ccs.obj" "./supportFunctions.obj" "./system_msp432p401r.obj" "../msp432p401r.cmd" -llibc.a -l"C:/ti/msp/MSP432Ware_3_50_00_02/driverlib/driverlib/MSP432P4xx/ccs/msp432p4xx_driverlib.lib" -l"C:/ti/msp/MSP432Ware_3_50_00_02/driverlib/driverlib/MSP432P4xx/ccs/msp432p4xx_driverlib.lib" 
